@@ -1,2 +1,9 @@
 *.py[cod]
 *.sqlite
+
+# Local caches / user-specific data
+isin2secid.json
+
+# Local test files
+test/*.xml
+test/old/
